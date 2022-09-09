@@ -5,3 +5,6 @@
 [JPA querydsl](https://shirohoo.github.io/spring/spring-data-jpa/2021-07-30-jpa-9/)
 
 [algorithm test](https://school.programmers.co.kr/learn/challenges)
+
+[kakaoMapApi ex](https://iftraveler.com/infotech/8-%ec%b9%b4%ec%b9%b4%ec%98%a4-%ec%a7%80%eb%8f%84-api-%ec%a2%8c%ed%91%9c-db-%eb%93%b1%eb%a1%9d%ed%95%98%ea%b8%b0/)
+
